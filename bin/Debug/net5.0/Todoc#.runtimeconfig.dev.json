@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\phugo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\phugo\\.nuget\\packages"
+    ]
+  }
+}

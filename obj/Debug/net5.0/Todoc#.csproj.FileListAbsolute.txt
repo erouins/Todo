@@ -1,0 +1,16 @@
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\bin\Debug\net5.0\Todoc#.exe
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\bin\Debug\net5.0\Todoc#.deps.json
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\bin\Debug\net5.0\Todoc#.runtimeconfig.json
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\bin\Debug\net5.0\Todoc#.runtimeconfig.dev.json
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\bin\Debug\net5.0\Todoc#.dll
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\bin\Debug\net5.0\ref\Todoc#.dll
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\bin\Debug\net5.0\Todoc#.pdb
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.csproj.AssemblyReference.cache
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.AssemblyInfoInputs.cache
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.AssemblyInfo.cs
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.csproj.CoreCompileInputs.cache
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.dll
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\ref\Todoc#.dll
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.pdb
+C:\Users\phugo\OneDrive\Bureau\Perso\Todoc#\obj\Debug\net5.0\Todoc#.genruntimeconfig.cache

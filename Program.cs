@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace c__training
+namespace Todoc_
 {
     class Program
     {
